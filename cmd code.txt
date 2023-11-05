@@ -1,0 +1,2 @@
+cmd code
+ slmgr -reara
